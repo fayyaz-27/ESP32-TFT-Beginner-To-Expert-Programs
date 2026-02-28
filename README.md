@@ -8,7 +8,6 @@ This project demonstrates interfacing the **ST7735 TFT display** with an **ESP32
 
 The repository follows a structured learning path:
 - RGB color manipulation
-- Basic graphics rendering
 - Image display
 - Simple image processing
 - Live image streaming and processing
@@ -20,7 +19,6 @@ Originally developed for **Mini Project 2025** at **SPIT Mumbai**.
 ## 🎯 Objectives
 - Interface ST7735 TFT with ESP32 using SPI
 - Understand pixel-level RGB control
-- Implement graphics and shapes
 - Render images on TFT
 - Perform basic image processing
 - Implement live image streaming
@@ -36,15 +34,26 @@ Originally developed for **Mini Project 2025** at **SPIT Mumbai**.
 ---
 
 ## 💻 Software Requirements
-- Arduino IDE / ESP-IDF
+- Arduino IDE 
 - Required TFT libraries
 - Serial Monitor
 
----
-
-## 🔌 Communication Protocol
-The ST7735 TFT communicates with the ESP32 using **SPI (Serial Peripheral Interface)**.
 
 ---
 
-## 📂 Project Structure
+## 🎓 Academic Details
+Developed for **Mini Project 2025**  
+SPIT Mumbai  
+
+Guided by:  
+Dr. Y. S. Rao  
+(Vice Principal, Dean – R&D & Academics, SPIT)
+
+Team Members:
+- Fayyaz Shaikh
+- Tushar Patange
+
+---
+
+## 🚀 Purpose
+This project aims to build strong fundamentals in embedded display systems, SPI communication, and real-time image handling using ESP32.
